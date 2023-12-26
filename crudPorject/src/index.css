@@ -1,0 +1,26 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body{
+  text-align: center;
+}
+
+a{
+  color: #fff !important;
+}
+
+.footer-item a{
+   color: #000 !important;
+}
+
+.card img{
+  height: 150px;
+  width: 250px;
+  object-fit: contain;
+  padding: 3px;
+}
+
+.list-group-item{
+  text-align: center !important;
+}

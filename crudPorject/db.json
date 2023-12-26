@@ -1,0 +1,173 @@
+{
+  "users": [
+    {
+      "name": "user",
+      "email": "user@abc.com",
+      "gender": "Male",
+      "password": "13",
+      "id": 1
+    },
+    {
+      "name": "ravi",
+      "email": "ravi@rediffmail.com",
+      "gender": "Male",
+      "password": "ravi@123",
+      "id": 2
+    },
+    {
+      "name": "mukesh",
+      "email": "mukesh@xyz.com",
+      "gender": "Male",
+      "password": "123345",
+      "id": 3
+    },
+    {
+      "name": "kapil",
+      "email": "kapil@abc.com",
+      "gender": "Male",
+      "password": "kapil@234",
+      "id": 4
+    },
+    {
+      "name": "aptron",
+      "email": "aptron@test.com",
+      "gender": "Male",
+      "password": "aptron",
+      "id": 5
+    }
+  ],
+  "Products" : [ 
+    { 
+      "id": 1, 
+      "title": "shirt1", 
+      "category": "Men", 
+      "price": 400,
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/shirt1.jpg" 
+    }, 
+    { 
+      "id": 2, 
+      "title": "shirt2", 
+      "category": "Men", 
+      "price": 600,
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.", 
+      "image": "../images/shirt2.jpg" 
+    }, 
+    { 
+      "id": 3, 
+      "title": "shirt3", 
+      "category": "Men", 
+      "price": 800, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/shirt3.jpg" 
+    }, 
+    { 
+      "id": 4, 
+      "title": "tshirt", 
+      "category": "Shirts", 
+      "price": 300, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/tshirt.jpg" 
+    }, 
+    { 
+      "id": 5, 
+      "title": "tshirt1", 
+      "category": "Shirts", 
+      "price": 200,
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.", 
+      "image": "../images/tshirt2.jpg" 
+    }, 
+    { 
+      "id": 6, 
+      "title": "tshirt3", 
+      "category": "Shirts", 
+      "price": 250, "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/tshirt3.jpg" 
+    }, 
+    { 
+      "id": 7, 
+      "title": "shoes", 
+      "category": "Men", 
+      "price": 550,"description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.", 
+      "image": "../images/shoes.jpg" 
+    }, 
+    { 
+      "id": 8, 
+      "title": "shoes2", 
+      "category": "Men", 
+      "price": 850, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/shoes2.jpg" 
+    }, 
+    { 
+      "id": 9, 
+      "title": "shoes3", 
+      "category": "Men", 
+      "price": 550, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/shoes3.jpg" 
+    }, 
+    { 
+      "id": 10, 
+      "title": "shoes4", 
+      "category": "Men", 
+      "price": 650, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/shoes4_.jpg" 
+    }, 
+    { 
+      "id": 11, 
+      "title": "sarri", 
+      "category": "Women", 
+      "price": 1150, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+      "image": "../images/sarri1.jpg" 
+    }, 
+    { 
+      "id": 12, 
+      "title": "sarri", 
+      "category": "Women", 
+      "price": 1350, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+
+      "image": "../images/sarri2.jpg" 
+    }, 
+    { 
+      "id": 13, 
+      "title": "suit", 
+      "category": "Women", 
+      "price": 650, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+
+      "image": "../images/suit1.jpg" 
+    }, 
+    { 
+      "id": 14, 
+      "title": "sport", 
+      "category": "Women", 
+      "price": 650, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+
+      "image": "../images/sport1.jpg" 
+    }, 
+    { 
+      "id": 15, 
+      "title": "Watch", 
+      "category": "Men", 
+      "price": 650, 
+      "description" :"This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bitlonger.",
+
+      "image": "../images/watch.jpg" 
+    } 
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
